@@ -11,4 +11,4 @@ The model type used in the source code is a multi-task learning with hard parame
 ## Test run
 
 1. Assuming Python 3 programming environment already configured by the user; execute `pip install tensorflow pandas numpy` to install the required dependencies (TensorFlow version must be version 2.1.0 above for compatibility).
-2. cd the console to the current directory and execute `python multiTaskLearning.py`.
+2. cd the console to the `source` directory and execute `python multiTaskLearning.py`.
