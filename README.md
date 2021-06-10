@@ -1,7 +1,7 @@
 # Identifying the pattern colleration using TensorFlow
 
 <p align = "center">
-  <img src = "https://raw.githubusercontent.com/hafiz-kamilin/research_tfPatternColleration/master/result.png" width = "992" height = "190"/>
+  <img src = "https://raw.githubusercontent.com/hafiz-kamilin/research_tfPatternColleration/master/source/result.png" width = "992" height = "190"/>
 </p>
 
 A simple demonstration of using a machine learning to observe the pattern colleration between the input and output. The result shows the machine learning can predict the output based on the input given as long there are corellation between the input/output.
